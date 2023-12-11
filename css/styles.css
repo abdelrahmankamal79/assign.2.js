@@ -1,0 +1,39 @@
+html{
+    background-color: black;
+}
+.text-center{
+    text-align: center;
+    color: white;
+    margin-top: 5em;
+    max-width: 500px;
+    margin: 0 auto;
+}
+h1{
+    font-size: 4em;
+}
+h2{
+    font-size: 1.2em;
+    margin-top: -2em;
+}
+button{
+    background-color: White;
+    color: black;
+    padding: 1em;
+    border-radius: 2em;
+    font-size: 1.5em;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-bottom: 2em;
+    margin-top: 2em;
+}
+button:hover{
+    transform: scale(1.2);
+}
+p{
+    font-size: 1.3em;
+    font-weight: bold;
+}
+#author{
+    font-size: 1.1em;
+    font-weight: 100;    
+}
